@@ -34,13 +34,13 @@ This project leveraged a variety of SQL features and methodologies to explore an
 5. **Window Functions (`SUM() OVER()`, `DENSE_RANK()`)**  
    Used to calculate rolling cumulative sums and to rank companies annually by layoffs, providing insights into progression and relative impact.
 <p align="left">
-  <img src="images/cumulative_total.png" alt="cumulative" width="600"/>
+  <img src="images/cumulative_total.png" alt="cumulative" width="400"/>
 </p>
 
 7. **Common Table Expressions (CTEs)**  
    Utilized to structure complex queries into readable, manageable blocks, particularly helpful for calculating rolling sums and ranking results.
 <p align="left">
-  <img src="images/top5.png" alt="ctop5" width="600"/>
+  <img src="images/top5.png" alt="ctop5" width="400"/>
 </p>
 
 ---
